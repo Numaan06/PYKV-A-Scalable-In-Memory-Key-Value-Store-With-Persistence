@@ -1,0 +1,17 @@
+SET name numaan
+SET city kadapa
+DEL city
+DEL city
+SET numaan 20
+DEL numaan
+DEL numaan
+SET numaan 20
+SET numaan 20
+SET numaan 20
+SET numaan 20
+SET numaan 20
+SET numaan 20
+DEL numaan
+SET city kadapa
+SET city kadapa
+DEL city
